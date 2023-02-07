@@ -2,6 +2,8 @@ const getBeers = require('./data')
 
 function main(type) {
     console.log('type:', type)
+    console.log('type:', type)
+    console.log('tokom kivan ezzel')
 
 }
 
